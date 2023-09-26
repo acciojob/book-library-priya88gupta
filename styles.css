@@ -9,21 +9,29 @@ body{
 	padding-bottom:5px;
 }
 .book{
-	align-items:center;
 	padding-top:10px;
+	background-color:lightgray;
 }
 button{
 	width:100%;
-	background-color:green;
+	background-color:#2ecc71;
 	margin-bottom:10px;
 	border:none;
 	padding:5px;
 	border-radius:3px;
 }
+h2{
+	margin-top:0px;
+	padding:5px;
+	background-color:lightgray;
+}
 h3{
 	margin:0px;
-	color:#777777;
+}
+img{
+	padding-left:100px;
 }
 p{
 	margin:0px;
+	color:#777777;
 }
